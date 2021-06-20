@@ -39,6 +39,8 @@ h1 {
     margin-bottom: 6em;
 }
 
-.result-img {
-    margin: 0 auto;
+.counter-wrapper {
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.5rem;
 }
