@@ -39,8 +39,19 @@ h1 {
     margin-bottom: 6em;
 }
 
-.counter-wrapper {
+.option-img {
+    width: 10%;
+    height: 10%;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 2.5em;
+}
+
+.player-wrapper {
     display: flex;
-    justify-content: space-around;
-    font-size: 1.5rem;
+}
+
+.player-img {
+    width: 5em;
+    height: 5em;
 }
